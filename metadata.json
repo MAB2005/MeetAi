@@ -1,0 +1,7 @@
+{
+  "name": "MeetAi - IT Expert Assistant",
+  "description": "A powerful, multilingual IT-focused AI assistant powered by Gemini. Features secure login simulation, file attachments, and expert coding capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
